@@ -10,4 +10,6 @@ This project, we develop a smart contract based solution for compliance checking
 2. npm install --save mocha // install mocha and chai for developing tests
 3. npm install chai --save
 
+
 # Project Summary:
+
