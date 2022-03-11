@@ -1,6 +1,8 @@
-# Zero Knowledge Proof Project
 
-This project, we develop a smart contract based solution for compliance checking.
+# Zero Knowledge Poof Implementations
+
+
+This project, we develop a smart contract based solution for compliance checking. This project experiments various types of ZKP implementations.
 
 
 # Installation Steps
