@@ -1,4 +1,4 @@
-# Zero Knowledge Project
+# Zero Knowledge Poof Implementations
 
 This project, we develop a smart contract based solution for compliance checking.
 
