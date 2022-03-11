@@ -1,4 +1,4 @@
-# Zero Knowledge Project
+# Zero Knowledge Proof Project
 
 This project, we develop a smart contract based solution for compliance checking.
 
